@@ -44,9 +44,6 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-## Authors
-# Haziq Ali
-# Hadia Noor
-# Usama Umer
+
 
 
